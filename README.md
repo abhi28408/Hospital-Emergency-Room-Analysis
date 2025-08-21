@@ -36,12 +36,13 @@ It has two levels:
 ---
 ## 4.Dashboard Snapshots
 🔹 Yearly view
-
+![Yearly view](Dashboard_png/Consolidated_yearly_dashboard.png)
 🔹 Monthly view
-
+![ Monthly view](Dashboard_png/Monthly_view.png)
 🔹Patient Details
-
+![Patient Details ](Dashboard_png/Patient_medical_history.png)
 🔹Keytakeaways
+![ Keytakeaways](Dashboard_png/key_Takeaways_report.png)
 
 ---
 ## 5. Dashboard Breakdown
